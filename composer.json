@@ -1,0 +1,13 @@
+{
+    "name": "root/project1",
+    "authors": [
+        {
+            "name": "Zarna0x",
+            "email": "justnightmare123@gmail.com"
+        }
+    ],
+    "require": {
+    	"windwalker/renderer": "2.*",
+    	"illuminate/view": "4.*"
+    }
+}
